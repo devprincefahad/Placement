@@ -1,2 +1,2 @@
 # Placement
-#Interview preparation in Java.
+Interview preparation in Java.
