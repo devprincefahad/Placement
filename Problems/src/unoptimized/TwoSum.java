@@ -1,3 +1,5 @@
+package unoptimized;
+
 public class TwoSum {
 
     public static void twoSum(int[] arr, int target) {
