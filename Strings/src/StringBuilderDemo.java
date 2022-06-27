@@ -13,10 +13,11 @@ public class StringBuilderDemo {
         System.out.println(sb);
 
         //insert
-        sb.insert(2, "def");
+        sb.insert(2, 'a');
         System.out.println(sb);
 
         sb.insert(sb.length(), 'g');
+        sb.insert(sb.length(), "def");
         System.out.println(sb);
 
         //delete
