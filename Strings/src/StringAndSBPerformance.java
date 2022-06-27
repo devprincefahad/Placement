@@ -1,4 +1,4 @@
-public class StringPerformance {
+public class StringAndSBPerformance {
 
     public static void main(String[] args) {
 
