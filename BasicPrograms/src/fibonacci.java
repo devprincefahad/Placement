@@ -1,16 +1,16 @@
 public class fibonacci {
 
     public static void fib(int n) {
-        int num1 = 0, num2 = 1;
+        int a = 0, b = 1;
         System.out.println("Fibonacci Series till " + n + " terms:");
 
         for (int i = 1; i <= n; i++) {
 
-            int nextTerm = num1 + num2;
-            num1 = num2;
-            num2 = nextTerm;
+            int nextTerm = a + b;
+            a = b;
+            b = nextTerm;
 
-            System.out.print(num1 + ", ");
+            System.out.print(a + ", ");
 
         }
     }

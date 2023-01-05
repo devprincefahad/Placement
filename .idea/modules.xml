@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/ArrayList/ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BasicPrograms/BasicPrograms.iml" filepath="$PROJECT_DIR$/BasicPrograms/BasicPrograms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bitwise/Bitwise.iml" filepath="$PROJECT_DIR$/Bitwise/Bitwise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PatternsJava/PatternsJava.iml" filepath="$PROJECT_DIR$/PatternsJava/PatternsJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Placement.iml" filepath="$PROJECT_DIR$/Placement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Problems/Problems.iml" filepath="$PROJECT_DIR$/Problems/Problems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SearchingAlgos/SearchingAlgos.iml" filepath="$PROJECT_DIR$/SearchingAlgos/SearchingAlgos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SortingAlgos/SortingAlgos.iml" filepath="$PROJECT_DIR$/SortingAlgos/SortingAlgos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TwoDArrays/TwoDArrays.iml" filepath="$PROJECT_DIR$/TwoDArrays/TwoDArrays.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,6 +1,6 @@
 public class printN {
 
-    public static void printUptoN(int n) {
+    public static void printUpToN(int n) {
         if (n <= 0) {
             return;
         }
@@ -10,6 +10,6 @@ public class printN {
     }
 
     public static void main(String[] args) {
-        printUptoN(10);
+        printUpToN(10);
     }
 }
