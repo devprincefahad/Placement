@@ -13,7 +13,7 @@ public class checkPrime {
     }
 
     public static void main(String[] args) {
-        boolean result = isPrime(7);
+        boolean result = isPrime(10);
         System.out.println(result);
     }
 }
